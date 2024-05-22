@@ -56,6 +56,8 @@ html{
     height: 100vh;
     width: 100%;
     background-color: #1abc9c;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
 }
 
 .main-cont {
