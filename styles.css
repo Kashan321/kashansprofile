@@ -384,7 +384,9 @@ html{
     .nav-bar .items ul li {
         display: none; /* Adjust as needed for your mobile navigation */
     }
-    
+    .nav-bar .Resume{
+        display: none;
+    }
     /* Page 1 Styles for smaller screens */
     .main-img {
         height: 400px;
